@@ -13,6 +13,7 @@ from sage.modules.fp_graded.steenrod.module import SteenrodFPModule
 from sage.modules.fp_graded.steenrod.homspace import SteenrodFPModuleHomspace
 from sage.modules.fp_graded.steenrod.morphism import SteenrodFPModuleMorphism
 
+from sage.categories.homset import Hom
 
 def direct_sum(modules):
     r'''
