@@ -1,5 +1,5 @@
 # fpmods
-Extensions to the SageMath library SteenrodFPModules
+Extensions to the <a href=https://github.com/sagemath>SageMath</a> library SteenrodFPModules
 
 ## Installation
 Copy ``fphomspaces.py``, ``margolis.py``, and ``extras.py`` to your working folder.
